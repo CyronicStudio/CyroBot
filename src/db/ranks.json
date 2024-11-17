@@ -1,0 +1,24 @@
+{
+  "users": {
+    "1305159555914792972": {
+      "userId": "1305159555914792972",
+      "username": "neel_official08",
+      "currentLevel": 50000,
+      "rank": 1,
+      "xp": 21,
+      "nextlevelUp": 5010,
+      "nextRankUp": 7515,
+      "rankAnnotationChannelId": "1307030206015471651"
+    },
+    "1100840998898253914": {
+      "userId": "1100840998898253914",
+      "username": "devrajbhai",
+      "currentLevel": 700000001,
+      "rank": 1,
+      "xp": 0,
+      "nextlevelUp": 7000000010,
+      "nextRankUp": 10500000015,
+      "rankAnnotationChannelId": "1307030206015471651"
+    }
+  }
+}
